@@ -2,5 +2,5 @@
 
 Welcome to my repo! 
 
-Don't forget to check this out!
-Dont forget to check rthat out!
+1. Don't forget to check this out!
+2. Don't forget to check that out!
